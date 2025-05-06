@@ -5,5 +5,5 @@ services:
     build:
         context: ./
         dockerfile: Dockerfile
-    container_name: discord-bot
+    container_name: danix-music-3
     restart: always
